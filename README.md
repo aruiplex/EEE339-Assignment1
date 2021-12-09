@@ -23,7 +23,7 @@ Button only be effective when the timer is stop.
 
 ## System overview and a diagram 
 
-![Untitled (1)](image/Untitled (1).png)
+![Untitled (1)](image/overview.png)
 
 ## My synthesized circuit 
 
